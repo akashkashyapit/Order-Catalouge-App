@@ -1,0 +1,169 @@
+{
+  "products": [
+    {
+      "_id": "watch1",
+      "image": "/images/watch1.jpg",
+      "title": "GUESS",
+      "description": "Men Black Analogue Watch GW0055G4",
+      "availableSizes": ["watch"],
+      "price": 29.9,
+      "brand":"Guess"
+    },
+ 
+    {
+      "_id": "watch6",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/15/0a195159-50ee-4f23-b150-2eb3a1c90ac41615802462060-1.jpg",
+      "title": "FLUID",
+      "description": "Men Black Analogue Watch GW0055G4",
+      "availableSizes": ["watch"],
+      "price": 899,
+      "brand":"FLUID"
+    },
+    {
+      "_id": "bag3",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2053523/2017/9/19/11505805803639-Tommy-Hilfiger-Unisex-Navy-Blue--Red-Colourblocked-Backpack-151505805803402-1.jpg",
+      "title": "Tommy Hilfiger",
+      "description": "Unisex Navy & Red Colourblocked Backpack",
+      "availableSizes": ["bag"],
+      "price": 1319,
+      "brand":"Tommy Hilfiger"
+    },
+    {
+      "_id": "bag4",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/8/5/524bab0a-0d9b-4270-95f6-c2559c17b17e1596583786682-1.jpg",
+      "title": "LOUIS CARON",
+      "description": "Unisex Black & Grey Graphic Backpack",
+      "availableSizes": ["bag"],
+      "price": 1195,
+      "brand":"LOUIS CARON"
+    },
+    {
+      "_id": "earphone1",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13554364/2021/2/17/9f77d81d-b3b7-481c-a901-291484e275fb1613538528850-Boult-Audio-BassBuds-X1-in-Ear-Wired-Earphones-with-10mm-Ext-1.jpg",
+      "title": "BOULT AUDIO",
+      "description": "Unisex Blue BassBuds X1 in-Ear Wired Earphones",
+      "availableSizes": ["earphone"],
+      "price": 299,
+      "brand": "BOULT AUDIO"
+    },
+    {
+      "_id": "earphone2",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8192999/2019/2/15/3d5dd619-d072-4244-9192-7601a6b9dfd11550207667775-Blink-Play---Carbon-Black-Fitness-Earphones-8941550207666933-1.jpg",
+      "title": "Blink",
+      "description": "Play - Carbon Black Fitness Earphones",
+      "availableSizes": ["earphone"],
+      "price": 4499,
+      "brand": "Blink"
+    },
+      
+    {
+      "_id": "watch4",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2280544/2018/4/5/11522921925522-Roadster-Men-Watches-2621522921925401-1.jpg",
+      "title": "Roadster",
+      "description": "Men Black Analogue Watch MFB-PN-LB-3018G",
+      "availableSizes": ["watch"],
+      "price": 1154,
+      "brand":"Roadster"
+    },
+    {
+      "_id": "watch5",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6972916/2018/11/19/95125238-1c66-41cf-99c4-ba79d999a30e1542616821805-Fossil-Men-Black-Analogue-Watch-191542616820828-1.jpg",
+      "title": "Fossil",
+      "description": "NATE Men Black Analogue Watch JR1353",
+      "availableSizes": ["watch"],
+      "price": 5497,
+      "brand":"Fossil"
+    },
+    {
+      "_id": "earphone3",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11945412/2020/6/12/4120ebc5-882b-4c30-8e46-0701d8d2d9e91591936195212-Noise-Shots-BEAT-Truly-Wireless-Earbuds-Jet-Black-1091591936-1.jpg",
+      "title": "NOISE",
+      "description": "Unisex Jet Black Shots BEAT Truly Wireless Earbuds",
+      "availableSizes": ["earphone"],
+      "price": 2589,
+      "brand":"NOISE"
+    },
+    {
+      "_id": "earphone4",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11932880/2020/6/11/00aa03c7-dc63-4701-b387-22ece1aec4c61591862264898-realme-Buds-Air-Neo-Pop-White-1321591862264562-1.jpg",
+      "title": "Realme",
+      "description": "realme Unisex White Buds Air Neo",
+      "availableSizes": ["earphone"],
+      "price": 2499,
+      "brand":"Realme"
+    },
+    {
+      "_id": "watch2",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1327201/2019/8/22/59858349-4ae7-473f-834b-83d50425542c1566455267596-Fossil-Men-Watches-8381566455266613-2.jpg",
+      "title": "Fossil",
+      "description": "Men Brown Analogue Watch Gh76K888",
+      "availableSizes": ["watch"],
+      "price": 5997,
+      "brand":"Fossil"
+    },
+    {
+      "_id": "watch3",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12516122/2020/9/22/010805cc-b3fa-4101-b029-dd1187ddccea1600777756544-Samsung-Unisex-Smart-Watches-3111600777755284-1.jpg",
+      "title": "Samsung",
+      "description": "Galaxy Watch Unisex 46 mm SM-R800 Black Strap Smartwatch",
+      "availableSizes": ["watch"],
+      "price": 14000,
+      "brand":"Samsung"
+    },
+    {
+      "_id": "earphone5",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11692254/2020/6/1/21d8d21d-bbf4-47fd-b231-fabf28523c531591006324853boAtUnisexBlueSolidRockerz235V2FastChargingWirelessBluetooth1.jpg",
+      "title": "boAt",
+      "description": "Rockerz 235V2 M Blue Wireless Neckband with ASAP ",
+      "availableSizes": ["earphone"],
+      "price": 2499,
+      "brand":"boAt"
+    },
+    {
+      "_id": "earphone6",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11435546/2020/1/31/a0eb8df1-83bb-4aed-a82e-d873d859fbdc1580474239043-JBL-Unisex-Black-C50HI-in-Ear-Headphones-with-Mic-JBLC50HIBL-1.jpg",
+      "title": "JBL",
+      "description": "Black C50HI M in-Ear Headphones with Mic JBLC50HIBLK",
+      "availableSizes": ["earphone"],
+      "price": 2499,
+      "brand":"JBL"
+    },
+    {
+      "_id": "bag1",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/8/2/9181e8ba-b62f-46c6-baa7-012cb379268a1596326039164-1.jpg",
+      "title": "Tommy Hilfiger",
+      "description": "Unisex Blue & White Solid Soft-Sided Cabin Trolley Overnighter",
+      "availableSizes": ["bag"],
+      "price": 2999,
+      "brand":"Tommy Hilfiger"
+    },
+    {
+      "_id": "bag2",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1992338/2020/12/15/67d3dcbb-9f5d-443b-aa77-ce7b8509f9901608019374899HRXbyHrithikRoshanUnisexFluorescentGreenColourblockedUberLif1.jpg",
+      "title": "HRX by Hrithik Roshan",
+      "description": "Unisex Fluorescent Green Colourblocked Uber Lifestyle Backpack",
+      "availableSizes": ["bag"],
+      "price": 604,
+      "brand":"HRX by Hrithik Roshan"
+    },
+    
+    {
+      "_id": "bag5",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11980250/2021/1/15/0c2f5b93-4f23-4fd3-be8c-52d04f6005221610693645976-Nike-Utility-EliteTraining-Backpack-2971610693642848-1.jpg",
+      "title": "Nike",
+      "description": "Men Off-White Solid Utility Elite Training Backpack",
+      "availableSizes": ["bag"],
+      "price": 4346,
+      "brand":"Nike"
+    },
+    {
+      "_id": "bag6",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12361368/2020/10/1/a85ab401-704a-4897-963e-4c7a20d323991601529119119-Wildcraft-Unisex-Blue-Solid-Backpack-351601529117389-1.jpg",
+      "title": "Wildcraft",
+      "description": "Unisex Blue Solid Backpack",
+      "availableSizes": ["bag"],
+      "price": 1599,
+      "brand":"Wildcraft"
+    }
+  ]
+}
